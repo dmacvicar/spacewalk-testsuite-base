@@ -36,6 +36,7 @@ features_task = Cucumber::Rake::Task.new do |t|
                      features/add_sys_of_group_to_SSM.feature
                      features/configuration.feature
                      features/add_system_to_conf.feature
+                     features/xmlrpc_cve_audit.feature
                      features/walk_hrefs.feature
                      features/delete_system_from_conf.feature
                      features/mgr-bootstrap.feature
