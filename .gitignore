@@ -2,3 +2,8 @@
 sqlnet.log
 Gemfile.lock
 *~
+/build/
+/.nb-gradle/profiles/private/
+.gradle
+build
+target
